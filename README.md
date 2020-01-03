@@ -1,2 +1,2 @@
 # Hello-World
-Created following the tutorial
+Created following along with the tutorial
